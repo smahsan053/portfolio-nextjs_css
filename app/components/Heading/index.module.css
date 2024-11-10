@@ -1,0 +1,7 @@
+.heading {
+  max-width: 35rem;
+}
+
+.title {
+  margin-bottom: var(--space-md);
+}

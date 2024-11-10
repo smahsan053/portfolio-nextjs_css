@@ -1,0 +1,11 @@
+.main {
+  max-width: var(--centered-size);
+  margin: 0 auto;
+  padding: var(--space-3xl) var(--space-md);
+}
+
+@media (min-width: 736px) {
+  .main {
+    padding: 7rem var(--space-md);
+  }
+}
