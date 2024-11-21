@@ -48,7 +48,7 @@ export default function Home() {
   return (
     <>
       <section>
-        <Heading title="Senior front-end developer in Pakistan who likes interfaces 💅">
+        <Heading title="A front-end developer in Pakistan who likes interfaces 💅">
           Results-driven Industrial & Manufacturing Engineer with 3 years of experience in
           production engineering. Successfully completed an inventory management project and led the
           installation of a new rewinding line. Eager to transition into a Frontend Developer.
